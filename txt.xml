@@ -1,7 +1,7 @@
 <builds>
 
 <build>
-<name>Helios για kodi 19</name>
+<name>Helios για kodi Nexus</name>
 <version>2.0</version>
 <url>https://www.dropbox.com/s/jo3wfrw3mzpv3tl/HeliosWizard19.zip?dl=1</url>
 <icon>https://axilleaskodi.netlify.app/icon.png</icon>
@@ -10,7 +10,7 @@
 </build> 
 
 <build>
-<name>Helios για kodi 20</name>
+<name>Helios για kodi Omega</name>
 <version>1.0</version>
 <url>https://www.dropbox.com/scl/fi/72tn0m8t1w158leqp4zlp/HeliosWizard20.zip?dl=1</url>
 <icon>https://axilleaskodi.netlify.app/icon.png</icon>
