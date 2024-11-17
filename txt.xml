@@ -1,7 +1,7 @@
 <builds>
 
 <build>
-<name>Helios19</name>
+<name>Helios για kodi 19</name>
 <version>2.0</version>
 <url>https://diggz1.me/Builds/AIO_Debrid_v17_1012_5pm.zip</url>
 <icon>https://axilleaskodi.netlify.app/icon.png</icon>
@@ -10,8 +10,8 @@
 </build> 
 
 <build>
-<name>Helios20</name>
-<version>2.0</version>
+<name>Helios για kodi 20</name>
+<version>1.0</version>
 <url>https://edef3.pcloud.com/cfZEtp4WgZfeWjRX7ZoLrSZZvnUVXkZ2ZZrRXZZQg3ERZTFZszZQpZ4RZNHZb5ZFRZK0ZTVZwXZu5ZLJZ8RZFFZ2k9I0WTI0ALGEzV3GeCNa7ERxBEX/HeliosWizard20.zip</url>
 <icon>https://axilleaskodi.netlify.app/icon.png</icon>
 <fanart>https://axilleaskodi.netlify.app/kodi.png</fanart>
