@@ -2,16 +2,16 @@
 
 <build>
 <name>Helios για kodi Nexus</name>
-<version>2.0</version>
+<version>2.1</version>
 <url>https://www.dropbox.com/s/jo3wfrw3mzpv3tl/HeliosWizard19.zip?dl=1</url>
 <icon>https://axilleaskodi.netlify.app/icon.png</icon>
 <fanart>https://axilleaskodi.netlify.app/kodi.png</fanart>
-<description>Όλες οι ΔΩΡΕΑΝ κατασκευές του Helios σε μία. Ενημερώθηκε 15/11/24</description>
+<description>Όλες οι ΔΩΡΕΑΝ κατασκευές του Helios σε μία. Ενημερώθηκε 24/06/25</description>
 </build> 
 
 <build>
 <name>Helios για kodi Omega</name>
-<version>2.0</version>
+<version>1.1</version>
 <url>https://axilleass.gr/HeliosWizard20.zip</url>
 <icon>https://axilleaskodi.netlify.app/icon.png</icon>
 <fanart>https://axilleaskodi.netlify.app/kodi.png</fanart>
