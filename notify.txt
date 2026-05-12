@@ -1,5 +1,8 @@
 1
 |||
+
+Tο kodi Nexus δεν υποστηρίζεται
+
 3.0.1 - εγκατάσταση γιά το kodi Nexus και Kodi Omega
 
 3.0.0 - εγκατάσταση γιά το kodi Nexus
